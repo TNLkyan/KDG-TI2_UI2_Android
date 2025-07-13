@@ -2,10 +2,8 @@
 
 ```
 voornaam: Kyan
-achternaam: van Dorst
 klas: INF202A
 jaar: 2024-2025
-studentennummer: 0167647-31
 onderwerp: persoon 1-* bankrekeningen
 ```
 
