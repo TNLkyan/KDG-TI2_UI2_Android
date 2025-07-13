@@ -1,14 +1,15 @@
-# Groeiproject Ui2
+# KDG-TI2_UI2_Android
 
-```
-voornaam: Kyan
-klas: INF202A
-jaar: 2024-2025
-onderwerp: persoon 1-* bankrekeningen
-```
+- **Name:**        Kyan
+- **Program:**     Toegepaste Informatica
+- **School:**      Karel de Grote Hogeschool
+- **Year:**        2024 - 2025
 
-## Week 1 en 2 overzicht
-### een overzicht van de features
+---
+## UI2 Android App
+
+### Week 1 en 2 overzicht
+#### een overzicht van de features
 - Card layout  in main gemaakt (foto, details en aantal nevenentiteiten)
 - Info hardcoded uit lijst gehaalt (hoofd- met nevenetiteit)
 - de gebruiker kan scrollen door hoofdentiteiten met knop
@@ -16,8 +17,8 @@ onderwerp: persoon 1-* bankrekeningen
 
 
 
-## Week 3 en 4 overzicht
-### een overzicht van de features
+### Week 3 en 4 overzicht
+#### een overzicht van de features
 - Hoeveelheid nevenobjecten -> een scrollable lazy list met alle nevenentiteiten
 - Engelse taal toegevoegd (device taal moet van taal veranderd worden)
 - dark / light mode toegevoegd (systeem darkmode moet aan of uit staan)
@@ -29,7 +30,7 @@ onderwerp: persoon 1-* bankrekeningen
 
 
 
-## Week 5, 6 en 7 overzicht
+### Week 5, 6 en 7 overzicht
 #### Week 5
 - Horizontale lijst toegevoegd
 - Items in lijst zijn clickbaar
