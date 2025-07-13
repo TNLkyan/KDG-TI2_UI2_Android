@@ -1,0 +1,24 @@
+{
+  "name": "groeiproject-ui2",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rest": "json-server --watch ./data/db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/TNLkyan/groeiproject-ui2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/TNLkyan/groeiproject-ui2/issues"
+  },
+  "homepage": "https://gitlab.com/TNLkyan/groeiproject-ui2#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}

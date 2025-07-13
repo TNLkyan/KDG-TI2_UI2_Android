@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Financial Tracker</string>
+    <string name="details_page">Person details</string>
+    <string name="add_page">Add person</string>
+
+    <string name="back_button_description">Back</string>
+
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+
+    <string name="bankrekeningen_icon_expand_toggle">Bank account expand toggle</string>
+
+    <string name="bankrekeningen">Bank accounts: </string>
+    <string name="bankrekeningen_banknaam">Bank name: </string>
+    <string name="bankrekeningen_rekeningnummer">Account number: </string>
+    <string name="bankrekeningen_saldo">Balance: </string>
+    <string name="bankrekeningen_valuta">Currency: </string>
+    <string name="bankrekeningen_limiet">Limit: </string>
+    <string name="bankrekeningen_aangemaakt_op">Created on: </string>
+    <string name="bankrekeningen_flagged">Flagged: </string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="update">Update</string>
+    <string name="bevestig">Confirm</string>
+
+    <string name="previous_page">previous page</string>
+
+    <string name="leeftijd_update">Update age</string>
+    <string name="leeftijd_update_titel">Adjust age</string>
+    <string name="leeftijd_update_voer_in">Enter new age:</string>
+
+    <string name="person_card_description_naam">Name: </string>
+    <string name="person_card_description_leeftijd">Age: </string>
+    <string name="person_card_description_geboortedatum">Date of birth: </string>
+    <string name="person_card_description_nationaliteit">Nationality: </string>
+    <string name="person_card_description_lengte">Height (m): </string>
+    <string name="person_card_description_premium_klant">Premium Customer?: </string>
+    <string name="person_card_description_klant_status">Customer Status: </string>
+    <string name="person_card_description_aantal_bankrek">No. of Bank Accounts: </string>
+
+    <string name="klant_status_description">Select client status</string>
+    <string name="save_person">Save person</string>
+    <string name="cancel_add_person">Cancel adding person</string>
+
+    <string name="extra_options_toggle">Extra options toggle</string>
+    <string name="extra_options_add">Add person</string>
+    <string name="add_forum_geboortedatum">Date of birth (dd-mm-yyyy): </string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="premium_status_toggle">Toggle premium status</string>
+    <string name="klant_status_toggle">Toggle client status</string>
+    <string name="extra_options_delete">Delete person</string>
+</resources>

@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Financieele tracker</string>
+    <string name="details_page">Persoon details</string>
+    <string name="add_page">Persoon toevoegen</string>
+
+    <string name="back_button_description">Terug</string>
+
+    <string name="settings">Instellingen</string>
+    <string name="language">Taal</string>
+    <string name="dark_mode">Donkere Modus</string>
+    <string name="light_mode">Lichte Modus</string>
+
+
+    <string name="bankrekeningen_icon_expand_toggle">Bankrekening expand toggle</string>
+
+    <string name="bankrekeningen">Bankrekeningen: </string>
+    <string name="bankrekeningen_banknaam">Banknaam: </string>
+    <string name="bankrekeningen_rekeningnummer">Rekeningnummer: </string>
+    <string name="bankrekeningen_saldo">Saldo: </string>
+    <string name="bankrekeningen_valuta">Valuta: </string>
+    <string name="bankrekeningen_limiet">Limiet: </string>
+    <string name="bankrekeningen_aangemaakt_op">Aangemaakt op: </string>
+    <string name="bankrekeningen_flagged">Flagged: </string>
+
+    <string name="next">volgende</string>
+    <string name="previous">vorige</string>
+    <string name="update">update</string>
+    <string name="bevestig">bevestig</string>
+
+    <string name="previous_page">vorige pagina</string>
+
+    <string name="leeftijd_update">Update leeftijd</string>
+    <string name="leeftijd_update_titel">Leeftijd aanpassen</string>
+    <string name="leeftijd_update_voer_in">Voer het nieuwe leeftijd in:</string>
+
+
+    <string name="person_card_description_naam">Naam: </string>
+    <string name="person_card_description_leeftijd">Leeftijd: </string>
+    <string name="person_card_description_geboortedatum">Geboortedatum: </string>
+    <string name="person_card_description_nationaliteit">Nationaliteit: </string>
+    <string name="person_card_description_lengte">Lengte (m): </string>
+    <string name="person_card_description_premium_klant">Premium Klant?: : </string>
+    <string name="person_card_description_klant_status">Klant Status: </string>
+    <string name="person_card_description_aantal_bankrek">Aantal Bankrek.: </string>
+
+    <string name="klant_status_description">Selecteer klant status</string>
+    <string name="save_person">Persoon opslaan</string>
+    <string name="cancel_add_person">Toevoegen annuleren</string>
+
+    <string name="extra_options_toggle">Extra options toggle</string>
+    <string name="extra_options_add">Extra options add</string>
+    <string name="add_forum_geboortedatum">Geboortedatum (dd-mm-yyyy): </string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="premium_status_toggle">Premium status wisselen</string>
+    <string name="klant_status_toggle">Klant status wisselen</string>
+    <string name="extra_options_delete">Extra options delete</string>
+
+</resources>

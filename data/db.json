@@ -1,0 +1,303 @@
+{
+  "personen": [
+    {
+      "id": "1",
+      "naam": "Angela Merkel",
+      "leeftijd": 69,
+      "geboortedatum": "1954-07-17",
+      "nationaliteit": "Duits",
+      "lengte": 1.65,
+      "premium_klant": true,
+      "klant_status": "platinum",
+      "foto": "https://www.bundestag.de/resource/image/521966/3x4/864/1152/f3faeb589dba839edcdd516af63e06c9/2CD06EF9822B9E7F280B683C36A07C4F/merkel_angela_gross.jpg"
+    },
+    {
+      "id": "2",
+      "naam": "Barack Obama",
+      "leeftijd": 62,
+      "geboortedatum": "1961-08-04",
+      "nationaliteit": "Amerikaans",
+      "lengte": 1.85,
+      "premium_klant": true,
+      "klant_status": "goud",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGh43up3RAkGouoYLV4O5C8jcWAJkKBnc2A&s"
+    },
+    {
+      "id": "3",
+      "naam": "Emma Watson",
+      "leeftijd": 33,
+      "geboortedatum": "1990-04-15",
+      "nationaliteit": "Brits",
+      "lengte": 1.65,
+      "premium_klant": false,
+      "klant_status": "zilver",
+      "foto": "https://m.media-amazon.com/images/M/MV5BMTQ3ODE2NTMxMV5BMl5BanBnXkFtZTgwOTIzOTQzMjE@._V1_.jpg"
+    },
+    {
+      "id": "4",
+      "naam": "Lionel Messi",
+      "leeftijd": 36,
+      "geboortedatum": "1987-06-24",
+      "nationaliteit": "Argentijns",
+      "lengte": 1.7,
+      "premium_klant": true,
+      "klant_status": "platinum",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGv0ZIrLidHrXmxdSY38qwW3_FyQZhJo-sFQ&s"
+    },
+    {
+      "id": "6",
+      "naam": "Nelson Mandela",
+      "leeftijd": 95,
+      "geboortedatum": "1918-07-18",
+      "nationaliteit": "Zuid-Afrikaans",
+      "lengte": 1.83,
+      "premium_klant": true,
+      "klant_status": "goud",
+      "foto": "https://cdn.britannica.com/67/75567-050-4EBBE84D/Nelson-Mandela.jpg"
+    },
+    {
+      "id": "7",
+      "naam": "Yao Ming",
+      "leeftijd": 43,
+      "geboortedatum": "1980-09-12",
+      "nationaliteit": "Chinees",
+      "lengte": 2.29,
+      "premium_klant": false,
+      "klant_status": "zilver",
+      "foto": "https://s.yimg.com/ny/api/res/1.2/CR7.hl1tc9xCbQ7fc76ASg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTgwMA--/https://s.yimg.com/os/en_us/News/Yahoo/ept_sports_nba_experts-865708205-1286285375.jpg"
+    },
+    {
+      "id": "8",
+      "naam": "Scarlett Johansson",
+      "leeftijd": 39,
+      "geboortedatum": "1984-11-22",
+      "nationaliteit": "Amerikaans",
+      "lengte": 1.6,
+      "premium_klant": true,
+      "klant_status": "platinum",
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Goldene_Kamera_2012_-_Scarlett_Johansson_3_%28cropped%2C_2%29.JPG"
+    },
+    {
+      "id": "9",
+      "naam": "Vladimir Putin",
+      "leeftijd": 71,
+      "geboortedatum": "1952-10-07",
+      "nationaliteit": "Russisch",
+      "lengte": 1.7,
+      "premium_klant": true,
+      "klant_status": "platinum",
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/f/f3/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29.jpg"
+    },
+    {
+      "id": "10",
+      "naam": "Malala Yousafzai",
+      "leeftijd": 26,
+      "geboortedatum": "1997-07-12",
+      "nationaliteit": "Pakistaans",
+      "lengte": 1.57,
+      "premium_klant": false,
+      "klant_status": "bronze",
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Shinz%C5%8D_Abe_and_Malala_Yousafzai_%281%29_%28cropped%29.jpg/640px-Shinz%C5%8D_Abe_and_Malala_Yousafzai_%281%29_%28cropped%29.jpg"
+    },
+    {
+      "id": "11",
+      "naam": "Albert Einstein",
+      "leeftijd": 76,
+      "geboortedatum": "1879-03-14",
+      "nationaliteit": "Duits",
+      "lengte": 1.75,
+      "premium_klant": false,
+      "klant_status": "bronze",
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/640px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
+    },
+    {
+      "id": "12",
+      "naam": "Adele",
+      "leeftijd": 35,
+      "geboortedatum": "1988-05-05",
+      "nationaliteit": "Brits",
+      "lengte": 1.75,
+      "premium_klant": true,
+      "klant_status": "goud",
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Adele_2016.jpg/640px-Adele_2016.jpg"
+    },
+    {
+      "id": "13",
+      "naam": "Shakira",
+      "leeftijd": 47,
+      "geboortedatum": "1977-02-02",
+      "nationaliteit": "Colombiaans",
+      "lengte": 1.57,
+      "premium_klant": true,
+      "klant_status": "platinum",
+      "foto": "https://image.demorgen.be/138037598/width/2480/spaans-gerecht-vervolgt-zangeres-shakira-wegens-belastingont"
+    },
+    {
+      "id": "14",
+      "naam": "Elon Musk",
+      "leeftijd": 52,
+      "geboortedatum": "1971-06-28",
+      "nationaliteit": "Amerikaans",
+      "lengte": 1.88,
+      "premium_klant": true,
+      "klant_status": "platinum",
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/640px-Elon_Musk_Royal_Society_%28crop2%29.jpg"
+    },
+    {
+      "id": "15",
+      "naam": "Naomi Osaka",
+      "leeftijd": 26,
+      "geboortedatum": "1997-10-16",
+      "nationaliteit": "Japans",
+      "lengte": 1.8,
+      "premium_klant": false,
+      "klant_status": "zilver",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfSDUFuivGfr2UDLQ7BrfvHF33rax43UIWw&s"
+    },
+    {
+      "id": 5,
+      "naam": "aaa",
+      "leeftijd": 26,
+      "geboortedatum": "2004-11-26",
+      "nationaliteit": "NLer",
+      "lengte": 5.89,
+      "premium_klant": true,
+      "klant_status": "platinum",
+      "foto": "default"
+    },
+    {
+      "id": 5,
+      "naam": "bbb",
+      "leeftijd": 89,
+      "geboortedatum": "1789-01-01",
+      "nationaliteit": "BE",
+      "lengte": 0.59,
+      "premium_klant": false,
+      "klant_status": "standard",
+      "foto": "default"
+    },
+    {
+      "id": 5,
+      "naam": "aaa",
+      "leeftijd": 24,
+      "geboortedatum": "2004-11-26",
+      "nationaliteit": "NLer",
+      "lengte": 5.59,
+      "premium_klant": true,
+      "klant_status": "goud",
+      "foto": "default"
+    }
+  ],
+  "bankrekeningen": [
+    {
+      "id": "1",
+      "persoon_id": 1,
+      "banknaam": "Deutsche Bank",
+      "rekeningnummer": "DE89370400440532013000",
+      "saldo": 285000,
+      "valuta": "EUR",
+      "limiet": 500000,
+      "aangemaakt_op": "2005-11-22",
+      "flagged": false
+    },
+    {
+      "id": "2",
+      "persoon_id": 2,
+      "banknaam": "JPMorgan Chase",
+      "rekeningnummer": "US02100002100000000001",
+      "saldo": 1250000.5,
+      "valuta": "EUR",
+      "limiet": 2000000,
+      "aangemaakt_op": "2008-01-20",
+      "flagged": false
+    },
+    {
+      "id": "3",
+      "persoon_id": 4,
+      "banknaam": "Banco de la Nación Argentina",
+      "rekeningnummer": "AR3200000000000000000001",
+      "saldo": 987500.75,
+      "valuta": "EUR",
+      "limiet": 1500000,
+      "aangemaakt_op": "2010-05-15",
+      "flagged": false
+    },
+    {
+      "id": "4",
+      "persoon_id": 4,
+      "banknaam": "Santander",
+      "rekeningnummer": "ES9121000418450200051332",
+      "saldo": 250000,
+      "valuta": "EUR",
+      "limiet": 500000,
+      "aangemaakt_op": "2018-07-01",
+      "flagged": false
+    },
+    {
+      "id": "5",
+      "persoon_id": 6,
+      "banknaam": "Standard Bank",
+      "rekeningnummer": "ZA12300000000000000000",
+      "saldo": 150000.25,
+      "valuta": "EUR",
+      "limiet": 300000,
+      "aangemaakt_op": "1994-05-10",
+      "flagged": false
+    },
+    {
+      "id": "6",
+      "persoon_id": 8,
+      "banknaam": "Bank of America",
+      "rekeningnummer": "US12345678901234567890",
+      "saldo": 87500,
+      "valuta": "EUR",
+      "limiet": 100000,
+      "aangemaakt_op": "2010-03-15",
+      "flagged": false
+    },
+    {
+      "id": "7",
+      "persoon_id": 9,
+      "banknaam": "Sberbank",
+      "rekeningnummer": "RU12345678901234567890",
+      "saldo": 2500000,
+      "valuta": "EUR",
+      "limiet": 5000000,
+      "aangemaakt_op": "2000-05-07",
+      "flagged": true
+    },
+    {
+      "id": "8",
+      "persoon_id": 12,
+      "banknaam": "Barclays",
+      "rekeningnummer": "GB29NWBK60161331926819",
+      "saldo": 125000.5,
+      "valuta": "EUR",
+      "limiet": 250000,
+      "aangemaakt_op": "2011-01-21",
+      "flagged": false
+    },
+    {
+      "id": "9",
+      "persoon_id": 13,
+      "banknaam": "Bancolombia",
+      "rekeningnummer": "CO12345678901234567890",
+      "saldo": 350000.75,
+      "valuta": "EUR",
+      "limiet": 500000,
+      "aangemaakt_op": "2005-06-15",
+      "flagged": false
+    },
+    {
+      "id": "10",
+      "persoon_id": 14,
+      "banknaam": "Silicon Valley Bank",
+      "rekeningnummer": "US98765432109876543210",
+      "saldo": 5000000,
+      "valuta": "EUR",
+      "limiet": 10000000,
+      "aangemaakt_op": "2010-07-01",
+      "flagged": false
+    }
+  ]
+}
